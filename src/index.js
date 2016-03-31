@@ -1,6 +1,9 @@
+import React from 'react';
+
 //Create a new component - this will produce HTML
 const App =  function(){
     return <div>Hi!</div>;
 }
 
 //Take the component's generated HTML and put it in the DOM
+React.render(App);
