@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 
 //Create a new component - this will produce HTML
 const App =  function(){
@@ -6,4 +7,4 @@ const App =  function(){
 }
 
 //Take the component's generated HTML and put it in the DOM
-React.render(App);
+ReactDOM.render(App);
