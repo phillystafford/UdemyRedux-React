@@ -4,7 +4,6 @@
     <list default="true" id="e96556dd-2133-4895-a08f-24ee10e67c24" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/search_bar.js" afterPath="$PROJECT_DIR$/src/components/search_bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="ReduxSimpleStarter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="search_bar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/search_bar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24448217">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.51952463">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -601,7 +600,7 @@
       <updated>1459430366386</updated>
       <workItem from="1459430367583" duration="346000" />
       <workItem from="1459430754444" duration="2860000" />
-      <workItem from="1459497196399" duration="5229000" />
+      <workItem from="1459497196399" duration="6460000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 6 - the app function.">
       <created>1459431938577</created>
@@ -651,11 +650,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459507196165</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 15 - Changed SearchBar from a functional component to a class based component.">
+      <created>1459510881344</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1459510881344</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8435000" />
+    <option name="totallyTimeSpent" value="9666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
@@ -705,7 +710,8 @@
     <MESSAGE value="Lesson 12 - Created  a 'components' directory to house all the new component files and added 4 new 'component' files.&#10;" />
     <MESSAGE value="Lesson 13 - Got the API key from YouTube and added it to the project" />
     <MESSAGE value="Lesson 14 - Created SearchBar component, imported it and rendered it on the screen." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 14 - Created SearchBar component, imported it and rendered it on the screen." />
+    <MESSAGE value="Lesson 15 - Changed SearchBar from a functional component to a class based component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 15 - Changed SearchBar from a functional component to a class based component." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -782,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/search_bar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24448217">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.51952463">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>
