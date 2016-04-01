@@ -28,8 +28,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12224109">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5500849">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -600,7 +600,7 @@
       <updated>1459430366386</updated>
       <workItem from="1459430367583" duration="346000" />
       <workItem from="1459430754444" duration="2860000" />
-      <workItem from="1459497196399" duration="9870000" />
+      <workItem from="1459497196399" duration="10524000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 6 - the app function.">
       <created>1459431938577</created>
@@ -680,11 +680,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459518511694</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson 21 - Added the code to test the Youtube search feature">
+      <created>1459519110528</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1459519110528</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13076000" />
+    <option name="totallyTimeSpent" value="13730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
@@ -739,7 +745,8 @@
     <MESSAGE value="Lesson 17 - Added the constructor for the SearchBar and added some commented out lines of code to illustrate the difference between ES5 and ES6 Javascript" />
     <MESSAGE value="Lesson 18 - Added state to the SearchBar" />
     <MESSAGE value="Lesson 19 - Changed the SearchBar to update the state when the user alters the text, not vis versa." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 19 - Changed the SearchBar to update the state when the user alters the text, not vis versa." />
+    <MESSAGE value="Lesson 21 - Added the code to test the Youtube search feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 21 - Added the code to test the Youtube search feature" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -816,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12224109">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5500849">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding />
         </state>
       </provider>
