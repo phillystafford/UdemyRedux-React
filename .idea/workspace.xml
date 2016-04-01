@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/search_bar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6417657">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -600,7 +600,7 @@
       <updated>1459430366386</updated>
       <workItem from="1459430367583" duration="346000" />
       <workItem from="1459430754444" duration="2860000" />
-      <workItem from="1459497196399" duration="8305000" />
+      <workItem from="1459497196399" duration="9247000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 6 - the app function.">
       <created>1459431938577</created>
@@ -668,11 +668,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459516751745</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson 18 - Added state to the SearchBar">
+      <created>1459517335211</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1459517335211</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11511000" />
+    <option name="totallyTimeSpent" value="12453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
@@ -725,7 +731,8 @@
     <MESSAGE value="Lesson 15 - Changed SearchBar from a functional component to a class based component." />
     <MESSAGE value="Lesson 15 - Added an event listener and event handler to the SearchBar component. We started it in ES5 and then converted it to ES6" />
     <MESSAGE value="Lesson 17 - Added the constructor for the SearchBar and added some commented out lines of code to illustrate the difference between ES5 and ES6 Javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 17 - Added the constructor for the SearchBar and added some commented out lines of code to illustrate the difference between ES5 and ES6 Javascript" />
+    <MESSAGE value="Lesson 18 - Added state to the SearchBar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 18 - Added state to the SearchBar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -803,7 +810,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/search_bar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6417657">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
           <folding />
         </state>
       </provider>
