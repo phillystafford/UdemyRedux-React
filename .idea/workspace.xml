@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e96556dd-2133-4895-a08f-24ee10e67c24" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/video_list.js" afterPath="$PROJECT_DIR$/src/components/video_list.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="ReduxSimpleStarter.iws" />
@@ -28,8 +29,18 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5500849">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.15280136">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video_list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/video_list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -61,6 +72,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/components/search_bar.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/video_list.js" />
       </list>
     </option>
   </component>
@@ -600,7 +612,7 @@
       <updated>1459430366386</updated>
       <workItem from="1459430367583" duration="346000" />
       <workItem from="1459430754444" duration="2860000" />
-      <workItem from="1459497196399" duration="10524000" />
+      <workItem from="1459497196399" duration="12586000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 6 - the app function.">
       <created>1459431938577</created>
@@ -686,11 +698,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459519110528</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Lesson 22 - Created a constructor to setup the state of the data that will be displayed in the app.">
+      <created>1459519824251</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1459519824251</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13730000" />
+    <option name="totallyTimeSpent" value="15792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
@@ -746,7 +764,8 @@
     <MESSAGE value="Lesson 18 - Added state to the SearchBar" />
     <MESSAGE value="Lesson 19 - Changed the SearchBar to update the state when the user alters the text, not vis versa." />
     <MESSAGE value="Lesson 21 - Added the code to test the Youtube search feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 21 - Added the code to test the Youtube search feature" />
+    <MESSAGE value="Lesson 22 - Created a constructor to setup the state of the data that will be displayed in the app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 22 - Created a constructor to setup the state of the data that will be displayed in the app." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -789,14 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/video_list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -821,10 +832,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/video_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5500849">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.15280136">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
